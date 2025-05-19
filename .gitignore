@@ -1,5 +1,5 @@
-"temp.log" 
-"*.exe" 
-"*.log" 
-".DS_Store" 
-"build/" 
+temp.log
+*.exe
+*.log
+.DS_Store
+build/
